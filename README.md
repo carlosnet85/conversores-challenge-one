@@ -42,11 +42,15 @@ setx -m PATH "%PATH%;%JAVA_HOME%\bin"
 <img width="500" heigth="500" src="https://github.com/carlosnet85/one-challenge-convesor-de-moeda/assets/54481508/d31d6a20-493c-4dfe-9173-eb7d93c951e0">
 
 ## Instalação
+1. Acesse a página de Releases do projeto no GitHub ou [cliquei aqui](https://github.com/carlosnet85/one-challenge-convesor-de-moeda/releases/download/v2.0.2.3/ConversorAlt.zip).
+2. NÃO remova o arquivo **.env** durante o processo de extração, pois ele vai armazenar **variáveis de ambiente** necessárias para o funcionamento correto da biblioteca dotenv.
+*Sem ele o programa não abre!*
+3. Se for solicitado, forneça as permissões de execução para o arquivo .jar antes de tentar executar ele.
 
 ## Configurando o conversor de moedas
 <img width="300" heigth="300" src="https://github.com/carlosnet85/one-challenge-convesor-de-moeda/assets/54481508/9287dd1a-18f3-4b6d-a668-d75af78d3d6b">
 
-Como mencionado anteriormente, o conversor de moedas utiliza uma API. Você precisará gerar um token **[aqui](https://api.invertexto.com/)**.
+Como mencionado anteriormente, o conversor de moedas utiliza uma API. Você precisará gerar um token [aqui](https://api.invertexto.com/).
 <br>*O programa em si não depende disso para funcionar!*
 
 **Para gerar a token:**
@@ -66,7 +70,6 @@ Como mencionado anteriormente, o conversor de moedas utiliza uma API. Você prec
 <img width="300" heigth="300" src="https://github.com/carlosnet85/one-challenge-convesor-de-moeda/assets/54481508/afc6e927-c86f-4ebe-a5f2-ee059fe22193">
 
 ## Contribuição
-
 O projeto é de código aberto e as contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga os passos abaixo:
 
 1. Faça um fork do repositório.
@@ -74,12 +77,12 @@ O projeto é de código aberto e as contribuições são bem-vindas! Se você de
 3. Envie uma solicitação de pull para o repositório original.
 
 ## Observação
-Este projeto foi desenvolvido como parte do desafio proposto pela [Alura](https://www.alura.com.br/) em parceria com a [Oracle](https://www.oracle.com/br/), por meio do [Programa ONE](https://www.oracle.com/br/education/oracle-next-education/). Inicialmente, o conversor tinha o foco exclusivo na *conversão de moedas*. Por esse motivo, eu criei duas versões: a **versão principal**, que segue o modelo do desafio proposto, e a **versão alternativa (alt)**, que foi documentada neste repositório.
+Este projeto foi desenvolvido como parte do desafio proposto pela [**Alura**](https://www.alura.com.br/) em parceria com a [**Oracle**](https://www.oracle.com/br/), por meio do [**Programa ONE**](https://www.oracle.com/br/education/oracle-next-education/). Inicialmente, o conversor tinha o foco exclusivo na *conversão de moedas*. Por esse motivo, eu criei duas versões: a [versão principal](https://github.com/carlosnet85/one-challenge-convesor-de-moeda/releases/download/v2.0.2.3/Conversor.jar), que segue o modelo do desafio proposto, e a **versão alternativa (alt)**, que foi documentada neste repositório.
 
 A diferença da **versão original** é a seguinte:
 
 1. Apenas duas opções de conversão disponíveis: Moeda e temperatura.
-2. Valor de conversão monetário é fixo.
+2. Valor de conversão de moedas é fixo.
 3. Interface simplificada.
 
 A versão original foi feita para atender aos requisitos do desafio proposto pela Alura e Oracle. Embora a versão original tenha menos funcionalidades, ela mantém a capacidade de realizar conversões monetárias.
