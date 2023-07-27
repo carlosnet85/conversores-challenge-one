@@ -1,6 +1,6 @@
 <div align="center"><h1><strong>Conversor de Unidades</strong></h1></div>
 
-Este projeto é uma aplicação Java desenvolvida usando o framework **Java Swing**, que foi utilizado para construir a interface gráfica. O conversor possui a conversão de valores entre diversas unidades, incluindo unidades monetárias. A conversão das unidades monetárias é realizada em tempo real com base nos dados recebidos da API **https://api.invertexto.com/**.
+Este projeto é uma aplicação Java que usa o framework **Java Swing** para criar a interface gráfica e o **Maven** para gerenciar as dependências e facilitar a build do projeto. Ele funciona como um conversor de valores para diferentes unidades, incluindo moedas. A conversão de moedas é feita em tempo real com dados da API **https://api.invertexto.com/**.
 
 <div align="center"><i>Interface da aplicação</i><br><img width="500" heigth="500" src="https://github.com/carlosnet85/one-challenge-convesor-de-moeda/assets/54481508/750d3c82-5385-4d16-b5af-8ee7646da915"></div>
 
