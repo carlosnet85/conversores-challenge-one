@@ -77,7 +77,7 @@ O projeto é de código aberto e as contribuições são bem-vindas! Se você de
 3. Envie uma solicitação de pull para o repositório original.
 
 ## Observação
-Este projeto foi desenvolvido como parte do desafio proposto pela [**Alura**](https://www.alura.com.br/) em parceria com a [**Oracle**](https://www.oracle.com/br/), por meio do [**Programa ONE**](https://www.oracle.com/br/education/oracle-next-education/). Inicialmente, o conversor tinha o foco exclusivo na *conversão de moedas*. Por esse motivo, eu criei duas versões: a [versão principal](https://github.com/carlosnet85/one-challenge-convesor-de-moeda/releases/download/v2.0.2.3/Conversor.jar), que segue o modelo do desafio proposto, e a **versão alternativa (alt)**, que foi documentada neste repositório.
+Este projeto foi desenvolvido como parte do desafio proposto pela [**Alura**](https://www.alura.com.br/) em parceria com a [**Oracle**](https://www.oracle.com/br/), por meio do [**Programa ONE**](https://www.oracle.com/br/education/oracle-next-education/). Inicialmente, o conversor tinha o foco exclusivo na *conversão de moedas*. Por esse motivo, eu criei duas versões: a [versão principal](https://github.com/carlosnet85/conversores-challenge-one/releases/download/v2.0.2.3/Conversor.jar), que segue o modelo do desafio proposto, e a **versão alternativa (alt)**, que foi documentada neste repositório.
 
 A diferença da **versão original** é a seguinte:
 
