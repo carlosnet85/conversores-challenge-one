@@ -1,3 +1,5 @@
+> Outdated project. Going to recode with another framework.
+
 <div align="center"><h1><strong>Conversor de Unidades</strong></h1></div>
 
 Este projeto é uma aplicação Java que usa o framework **Java Swing** para criar a interface gráfica e o **Maven** para gerenciar as dependências e facilitar a build do projeto. Ele funciona como um conversor de valores para diferentes unidades, incluindo moedas. A conversão de moedas é feita em tempo real com dados da API **https://api.invertexto.com/**.
